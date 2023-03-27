@@ -287,8 +287,10 @@ footer {
 }
 
 footer .widget {
-    padding-right: 205px;
-    padding-left: 10px;
+    justify-content: center;
+
+    /* padding-right: 205px;
+    padding-left: 10px; */
 }
 
 .footer_area {
